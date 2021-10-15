@@ -1,12 +1,12 @@
 #
-# Makefile for ADD_YOUR_PROGRAM_NAME_HERE
+# Makefile for HW2.2.c
 #
 # The Build Rules for This Program
 #
 # Variables
 CC=gcc
 # ADD YOUR PROGRAM NAME HERE
-APP=myCode
+APP=HW2.3
 OBJ=$(APP).o
 EXE=$(APP).exe
 LOG=$(APP).log
