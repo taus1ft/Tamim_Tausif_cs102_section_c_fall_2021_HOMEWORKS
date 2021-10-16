@@ -1,5 +1,5 @@
 #Tausif Tamim
-#ADD GIT REPO LINK HERE!!!!
+https://github.com/taus1ft/Tamim_Tausif_cs102_section_c_fall_2021_HOMEWORKS/blob/HW2/HW2.2/
 
 #This program asks the user to input the time in minutes in order to find the hours and minutes..
 
