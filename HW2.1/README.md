@@ -1,5 +1,5 @@
 #Tausif Tamim
-#ADD GIT REPO LINK HERE!!!!
+https://github.com/taus1ft/Tamim_Tausif_cs102_section_c_fall_2021_HOMEWORKS/blob/HW2/HW2.1/
 
 #This program asks the user to input the length and width of a rectangle in order to find the perimeter of such triangle. 
 
